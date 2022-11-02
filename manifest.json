@@ -5,8 +5,9 @@
   "version": "1.0",
   "icons": { "16": "16x16.png" },
   "action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+    "default_icon": "16x16.png"
   },
-  "permissions": ["activeTab"]
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
 }

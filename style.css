@@ -1,8 +1,13 @@
 * {
   box-sizing: border-box;
 }
+#parent-box {
+  display: flex;
+}
+
 #task-box,
 time-weather-parent,
 weather-container {
-  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 2%;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.2);
 }

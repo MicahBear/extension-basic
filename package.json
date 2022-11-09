@@ -1,0 +1,19 @@
+{
+  "name": "extension_basic",
+  "version": "1.0.0",
+  "description": "home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicahBear/extension-basic.git"
+  },
+  "author": "micah elm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicahBear/extension-basic/issues"
+  },
+  "homepage": "https://github.com/MicahBear/extension-basic#readme"
+}
